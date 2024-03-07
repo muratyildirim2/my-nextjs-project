@@ -7,7 +7,7 @@ export default function Home() {
       <div className="z-10 w-full items-center justify-center font-mono text-sm lg:flex">
         <div className="flex justify-center">
           <Image
-            src="/image.png"
+            src="/Siyah ve Altın Modern Emlak ve İnşaat Instagram Gönderisi (2).png"
             alt="Kartvizit"
             layout="fill"
             objectFit="contain"
